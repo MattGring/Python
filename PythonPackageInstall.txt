@@ -1,0 +1,6 @@
+cd c:\python34
+python -m pip install requests
+python -m pip install BeautifulSoup4
+python -m pip install pillow
+python -m pip install pyautogui
+python -m pip install pytesseract
